@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **soungoolwin275@gmail.com**
 
+![soungoolwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soungoolwin&show_icons=true&theme=tokyonight)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soung_lwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soung_lwin" height="30" width="40" /></a>
