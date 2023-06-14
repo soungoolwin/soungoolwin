@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **ICT at Rangsit University(Thailand)**
 
-- 🌱 I’m currently learning **JavaScript,Vue.js, PHP, Python**
+- 🌱 I’m currently learning **JavaScript,Vue.js, PHP, Laravel, Python**
 
 - 📫 How to reach me **soungoolwin275@gmail.com**
 
