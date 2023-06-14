@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/soung_lwin" target="blank"><img src="https://img.shields.io/twitter/follow/soung_lwin?logo=twitter&style=for-the-badge" alt="soung_lwin" /></a> </p>
 
-- 🔭 I’m currently studying at **Computer University(Mandalay)**
+- 🔭 I’m currently studying **ICT at Rangsit University(Thailand)**
 
 - 🌱 I’m currently learning **JavaScript,Vue.js, PHP, Python**
 
