@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript,Vue.js, PHP, Laravel, Python**
 
-- 📫 How to reach me **soungoolwin275@gmail.com**
+- 📫 How to reach me **contact@soungoolwin.me**
 
 ![soungoolwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soungoolwin&show_icons=true&theme=tokyonight)
 
