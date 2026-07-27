@@ -10,9 +10,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soungoolwin&show_icons=true&theme=tokyonight" alt="saungoolwin's GitHub stats" />
-</p>
+![soungoolwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soungoolwin&show_icons=true&theme=tokyonight)
 
 <br/>
 
