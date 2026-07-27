@@ -10,10 +10,6 @@
 
 <br/>
 
-![soungoolwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soungoolwin&show_icons=true&theme=tokyonight)
-
-<br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/saung-oo-lwin" target="blank">
